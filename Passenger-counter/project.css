@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://imgs.search.brave.com/WWyxMWRHBUdI-ccG97B9nJ_sjFWH-RHevNsvrVAAYWo/rs:fit:960:540:1/g:ce/aHR0cHM6Ly9wbmcu/cG5ndHJlZS5jb20v/dGh1bWJfYmFjay9m/dzgwMC9iYWNrX3Bp/Yy8wMy81MS85OC8z/NTU3OTMxNTkxMjYw/ZDIuanBn");
+    background-size: cover;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh
+}
+.container{
+    background: skyblue;
+    max-width: 80;
+    margin: auto;
+    border: 3px solid black
+    border-radius: 10px
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin: bottom 5px;
+    border-radius: 5px;
+
+}
+
+#increment-btn {
+    background: blueviolet;
+}
+
+
+#save-btn {
+    background: darkgreen;
+}
